@@ -105,7 +105,7 @@ Source: 0.0.0.0/0
 
 ## Access the Application
 
-http://<EC2-PUBLIC-IP>:8080
+http://EC2-PUBLIC-IP:8080
 
 ---
 
